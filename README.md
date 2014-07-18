@@ -6,6 +6,6 @@ WPDB_LOG
  *	Mail : pierre.dargham@gmail.com
  *	Date : 06/09/2014
  
- #Install#
+#Install#
 1. Copy this file into your wp-content folder
 2. That's all !
