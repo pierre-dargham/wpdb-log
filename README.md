@@ -6,5 +6,5 @@
  *	Date : 06/09/2014
  
 ##Install##
-1. Copy this file into your wp-content folder
+1. Copy db.php into your wp-content folder
 2. That's all !
